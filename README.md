@@ -12,5 +12,9 @@ https://adrians90.github.io/calculator2024/
 
 **Built with: JavaScript, HTML and CSS Grid**
 
-![image](https://github.com/adrians90/calculator2024/assets/128593202/e3210622-3850-4449-919f-89e28991f7e9)
+![image](https://github.com/adrians90/calculator2024/assets/128593202/879b539e-ac9d-4ba0-96a3-3405972521b4)
+
+![image](https://github.com/adrians90/calculator2024/assets/128593202/1bd7dd56-1717-4f66-a6f9-3de66eb2f049)
+
+
 
